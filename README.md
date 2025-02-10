@@ -1,7 +1,8 @@
 # 🎯 AMIT Tech Website - Manual Testing Project
 
 ## 📚 Project Overview
-This repository showcases my **Manual Testing Project** for the **AMIT Tech Website**, a professional technology platform. 🚀 My objective was to ensure a **smooth, bug-free, and user-friendly** experience across different devices and browsers.
+This repository showcases my **Manual Testing Project** for the **AMIT Tech Website**, a professional technology platform.
+🚀 My objective was to ensure a **smooth, bug-free, and user-friendly** experience across different devices and browsers.
 
 ## 🏆 Objectives
 🔹 Verify the **functionality, usability, and responsiveness** of the website.  
